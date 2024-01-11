@@ -1,4 +1,4 @@
-# Tic Tac Toe
+# Tic Tac Toe Game
 
 A basic Tic Tac Toe game built in javascript and css for the style
 
