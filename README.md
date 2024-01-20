@@ -1,6 +1,6 @@
 # Tic Tac Toe Game
 
-A basic Tic Tac Toe game built in javascript and css
+A basic Tic Tac Toe game built in javascript and css.
 
 # Screenshoot
 ![Screenshot 2024-01-11 161344](https://github.com/Andrea7701/Tic-Tac-Toe/assets/156012853/04b758d6-a892-40b9-8fec-069505e2910b)
